@@ -14,3 +14,8 @@
     text-align: center;
     color: white;
 }
+
+#shapes-holder{
+    display: flex;
+    flex-direction: column;
+}
